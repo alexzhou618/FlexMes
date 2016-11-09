@@ -1,0 +1,32 @@
+﻿
+11/11/2013	10:27:15 PM		Engine version                          =	5600.1067
+11/11/2013	10:27:15 PM		AntiVirus   DAT version                 =	7251.0
+11/11/2013	10:27:15 PM		Number of detection signatures in EXTRA.DAT =	None
+11/11/2013	10:27:15 PM		Names of detection signatures in EXTRA.DAT  =	None
+11/11/2013	10:27:15 PM	Scan Started	B13H-L19-6933\Administrator	Full Scan
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Scan Summary
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Processes scanned    : 38
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Processes detected   : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Processes cleaned    : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Boot sectors scanned : 2
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Boot sectors detected: 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Boot sectors cleaned : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Files scanned        : 15286
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Files with detections: 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	File detections      : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Files cleaned        : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Files deleted        : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Files not scanned    : 26
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Scan Summary (Registry Scanning)
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Keys scanned         : 21329
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Keys detected        : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Keys cleaned         : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Keys deleted         : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Scan Summary (Cookie Scanning)
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Cookies scanned      : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Cookies detected     : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Cookies cleaned      : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Cookies deleted      : 0
+11/11/2013	10:34:46 PM	Scan Summary	B13H-L19-6933\Administrator	Run time             : 0:07:31
+11/11/2013	10:34:46 PM	Scan Complete	B13H-L19-6933\Administrator	Full Scan
+
